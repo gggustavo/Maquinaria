@@ -17,3 +17,5 @@ d)	Si supera las 20 fallas debe informar que requiere “MANTENIMIENTO URGENTE�
 Periódicamente el sector de mantenimiento realiza tareas de reparación sobre todas las máquinas que se encuentran en la situación del punto d) por lo que a finalizar las mismas el registro de fallas debería resetearse a 0 (cero) para comenzar un nuevo ciclo de trabajo.
 
 El programa deberá permitir agregar, modificar y eliminar la información solicitada como así visualizar la lista de máquinas registradas y su estado.
+
+[![Sin título.png](https://s21.postimg.org/4au1l8tbb/Sin_t_tulo.png)](https://postimg.org/image/src7fpu1v/)
