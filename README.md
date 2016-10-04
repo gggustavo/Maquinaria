@@ -19,7 +19,7 @@ El programa deberá permitir agregar, modificar y eliminar la información solic
 
 [![Sin título.png](https://s21.postimg.org/4au1l8tbb/Sin_t_tulo.png)](https://postimg.org/image/src7fpu1v/)
 
-Condiciones:
+**Condiciones**:
 
 a)	El programa deberá estar desarrollado en C# y se solicitará el código fuente
 
